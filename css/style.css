@@ -1,0 +1,13 @@
+/*font-family: 'PT Sans', sans-serif;*/
+
+body{
+  font-family: 'PT Sans', sans-serif;
+  background-color: 343A40;
+}
+.container2 {height:150px;
+}
+.counters {
+	text-align:center;
+	margin-top: 44px;
+	padding: 0;
+}
